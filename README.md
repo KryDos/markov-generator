@@ -12,12 +12,12 @@ Usage
  - clone this repo to your project.
  - include 'generator.php' file to file when you want use this generator.
  
-```[php]
+```php
 require 'generator.php';
 ```
  - use this generator! :)
 
-```[php]
+```php
 /**
  * Text generator can get one parameter.
  * it's words file name.
