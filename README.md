@@ -16,6 +16,7 @@ Usage
 require 'generator.php';
 ```
  - use this generator! :)
+
 ```[php]
 /**
  * Text generator can get one parameter.
@@ -27,6 +28,7 @@ $generator = new TextGenerator();
  * can get the one parameter.
  * it's size of the generated text
  * default is 50
+ */
 echo $generator->generateText();
 ```
 
