@@ -33,7 +33,7 @@ echo $generator->generateText();
 ```
 
 You can also get the generated text via 
-```[php]
+```php
 $generator->getText();
 ```
 
